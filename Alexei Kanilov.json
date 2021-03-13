@@ -1,0 +1,12 @@
+{
+   "firstName": "Alexei",
+   "lastName": "Kanilov",
+   "address": {
+       "city": "Chuguev",
+       "postalCode": 63503
+   },
+   "phoneNumbers": [
+       "099.......",
+       "098......."
+   ]
+}

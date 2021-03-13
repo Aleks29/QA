@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<Employee name="Alexei Kanilov">
+<Age>33</Age>
+<JuniorQASpecialist>True</JuniorQASpecialist>
+</Employee>
+</root>
